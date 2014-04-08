@@ -23,7 +23,7 @@ function updatePreview() {
 		"<meta charset=utf-8>" +
 		"</head>" +
 		"<body>" +
-		"<canvas id=pane width=100% height=100%></canvas>" +
+		"<canvas id=pane width=600px height=500px></canvas>" +
 		"<script>";
 	var suffix = "</script>" +
 		"</body>" +
